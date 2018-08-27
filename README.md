@@ -1,7 +1,8 @@
 # COMPRO1_MP
 My Machine Project for COMPRO 1 ||  A.Y 2017 - 2018. Term 1
 
-Subject: COMPRO 1
+Title: Calendar-yo
+
 Instructor: Shirley Chu
 
 Background:
